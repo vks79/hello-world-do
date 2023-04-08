@@ -9,7 +9,7 @@ Registration Page
 <br>  
 <form>  
   
-<label> <h1> First Name </h1>  </label>         
+<label> <h1> welcome to devops lab </h1>  </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label> Middlename: </label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
