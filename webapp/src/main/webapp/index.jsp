@@ -9,7 +9,7 @@ Registration Page
 <br>  
 <form>  
   
-<label> Firstname </label>         
+<label> <h1> First Name </h1>  </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label> Middlename: </label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
@@ -24,7 +24,7 @@ Course :
 <option value="BCA">BCA</option>  
 <option value="BBA">BBA</option>  
 <option value="B.Tech">B.Tech</option>  
-<option value="MBA">MBA</option>  
+<option value="MBA1">MBA</option>  
 <option value="MCA1">MCA</option>  
 <option value="M.Tech">M.Tech</option>  
 </select>  
