@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register for Zurich</h1>
+    <h1>Register Cambridge University Zurich</h1>
     <p>Please fill in this form to create account from the Govil.</p>
     <hr>
 
