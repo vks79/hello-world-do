@@ -1,8 +1,0 @@
-repos:
--   repo: local
-    hooks:
-    -   id: pre-commit
-        name: pre-commit
-        entry: path/to/script.sh
-        language: script
-        pass_filenames: false
