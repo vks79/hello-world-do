@@ -1,7 +1,15 @@
 repos:
 -   repo: local
     hooks:
+<<<<<<< HEAD
     -   id: spectral
         name: scan1
         entry: /root/spectral.sh
         language: script
+=======
+    -   id: pre-commit
+        name: pre-commit
+        entry: path/to/script.sh
+        language: script
+        pass_filenames: false
+>>>>>>> 3292d76c5a3743f65aef654f48483e049a302cc6
