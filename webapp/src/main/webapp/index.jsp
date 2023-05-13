@@ -20,6 +20,5 @@
 
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
-	GOOGLE_MAPS_API_KEY = "12345"
   </div>
 </form>
